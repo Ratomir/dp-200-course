@@ -1,0 +1,23 @@
+
+1. Pluralsight DP-200 Path: https://app.pluralsight.com/paths/certificate/microsoft-azure-data-engineer-dp-200 
+Ovo je najbolji learning path, ja sam em naucio iz ovoga i utvrdio znanje a stvarno sve sto se ovde pomene dolazi na ispitu. 
+Learning path od MS: https://docs.microsoft.com/en-us/learn/certifications/exams/dp-200 
+2. Posto sam ja MCT imam pristup njihovim materijalima za kurs DP-200. To je ovo, ta knjiga prolazi kroz ove materijale. 
+Lab vjezbe su ti ovde, mada nisu one toliko mandatorne: https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution
+3. Scott Duffy official kurs: https://www.udemy.com/course/dp200-azure/
+Ovo ako imas iskustva sa ovim servisima i ako si radio u Azure, ne preporucujem. Ja sam odgledao ali ono, sve sam to vec znao. 
+4. Prodji ovu listu pitanja ovde. https://www.examtopics.com/exams/microsoft/dp-200/view/
+Pazi ima dosta pogresnih odgovora pa procitaj diskusiju. Ako ti sta ima nejasno, pisi.
+
+Synapse kao Workspace ne dolazi jer je servis jos u preview. Data warehouse koncepti dolaze. Partcionisanje, replikacija, load date sa storage... 
+
+Data Factory najvise koji ces integration runtime koristiti u slucajevima od on-prem pa do cloud... 
+
+Meni je barem bilo najvise Stream Analyticsa. Tu je najvaznije da znas windowing funkcije. Ima ih 4. Ali sve je to objasnjeno fino na kursu iz PluralSight DP-200.
+
+Posto MS generalno radi na taj nacin da pitanja izvlace iz online dokumentacije, u ovom linkovi imas sve URL do opisa toga sta je bilo na pitanju. Pitanja tu nisam povezao jer ono sjetim se sta je bilo pitanje kad pogledam link. Tu ima dosta toga, ali ja sam ucio i utvrdjivao znanje. I ima tu dosta zanmiljivih stvari. To je ono ako hoces bas da naucis. :)
+View Ratomir’s profileRatomir Vukadin
+Ratomir Vukadin  10:59 PM
+A ovi svg-ovi, generalno u zadnje vrijeme koristim MS Whiteboard pa preko njega biljezim neke stvarcice pa tako lakse pamtim i povezujem. Pa sam tu izvukao tih par sitnica koje ce ti biti na ispitu 100%, windowing funkcije i data partioning u DW.
+Data Factory kurs nemoj gledati ako ga znas koristiti.
+

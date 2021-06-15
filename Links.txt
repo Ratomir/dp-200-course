@@ -1,0 +1,102 @@
+Databricks
+Databricks cluster - https://docs.microsoft.com/en-us/azure/databricks/clusters/configure
+Plan capacity and control cost - https://docs.databricks.com/administration-guide/capacity-planning/cmbp.html#scenario-3-scheduled-batch-workloads-data-engineers-running-etl-jobs
+Mix languages - https://docs.databricks.com/notebooks/notebooks-use.html#mix-languages
+Twitter and Databricks - https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs 
+Passtrgough and Active Directory - https://docs.microsoft.com/en-us/azure/databricks/security/credential-passthrough/adls-passthrough
+
+HDInsight cluster
+HDInsights monitor cluster - https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-oms-log-analytics-tutorial
+Manage HDInsight clusters by using the Apache Ambari Web UI - https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-manage-ambari
+Stream analytics
+Understand Stream Analytics job monitoring and how to monitor queries - https://docs.microsoft.com/bs-cyrl-ba/azure/stream-analytics/stream-analytics-monitoring
+Monitoring on Azure HDInsight Part 1: An Overview - https://azure.microsoft.com/en-us/blog/monitoring-on-hdinsight-part-1-an-overview/
+Monitoring on Azure HDInsight Part 2: Cluster health and availability - https://azure.microsoft.com/sv-se/blog/monitoring-on-azure-hdinsight-part-2-cluster-health-and-availability/
+Use Azure Monitor logs to monitor HDInsight clusters - https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-oms-log-analytics-tutorial
+Create Apache Hadoop clusters in HDInsight by using Resource Manager templates - https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-create-linux-clusters-arm-templates
+Twitter with Apache Spark - https://acadgild.com/blog/streaming-twitter-data-using-spark
+
+Storm
+Apache Storm - https://www.tutorialspoint.com/apache_storm/index.htm
+What is Apache Storm on Azure HDInsight? - https://docs.microsoft.com/en-us/azure/hdinsight/storm/apache-storm-overview
+
+Stream Analytics
+Leverage query parallelization in Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-parallelization
+Understand and adjust Streaming Units - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-streaming-unit-consumption
+Using reference data for lookups in Stream Analytics - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-use-reference-data
+Quickstart: Create a Stream Analytics job by using the Azure portal - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-quick-create-portal
+Introduction to Stream Analytics windowing functions - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions
+Azure Stream Analytics JavaScript user-defined aggregates - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-javascript-user-defined-aggregates
+Understand inputs for Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-add-inputs#stream-and-reference-inputs
+Understand outputs from Azure Stream Analytics - https://docs.microsoft.com/en-us/azure/stream-analytics/stream-analytics-define-outputs
+
+
+Cosmos DB
+Consistency levels - https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels
+Choose the right consistency level - https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels-choosing https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels-tradeoffs
+Cosmos DB containers - https://docs.microsoft.com/en-us/azure/cosmos-db/databases-containers-items
+Azure Cosmos DB partitioning design patterns – Part 1 - https://azure.microsoft.com/sv-se/blog/azure-cosmos-db-partitioning-design-patterns-part-1/
+Monitoring Azure Cosmos DB - https://docs.microsoft.com/en-us/azure/cosmos-db/monitor-cosmos-db
+Request Units in Azure Cosmos DB - https://docs.microsoft.com/en-us/azure/cosmos-db/request-units
+Global data distribution with Azure Cosmos DB - overview - https://docs.microsoft.com/en-us/azure/cosmos-db/distribute-data-globally
+Time to Live (TTL) in Azure Cosmos DB - https://docs.microsoft.com/en-us/azure/cosmos-db/time-to-live
+
+
+Storage Account
+Azure Storage analytics logging - https://docs.microsoft.com/en-us/azure/storage/common/storage-analytics-logging
+
+Azure Sql Database and warehouse
+sp_updatestats (Transact-SQL) - https://docs.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-updatestats-transact-sql?view=sql-server-ver15
+Dynamic Data masking - https://docs.microsoft.com/en-us/sql/relational-databases/security/dynamic-data-masking?view=sql-server-ver15 
+External table T-SQL - https://docs.microsoft.com/en-us/sql/t-sql/statements/create-external-table-transact-sql?view=sql-server-ver15
+Export sql database - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-export
+Always Encrypted - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-always-encrypted-azure-key-vault?tabs=azure-powershell
+Load data from Azure Data Lake Storage for SQL Analytics - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-load-from-azure-data-lake-store
+Granting database access and authorization to SQL Database and Azure Synapse Analytics using logins and user accounts - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-manage-logins
+Overview of Data Migration Assistant - https://docs.microsoft.com/en-us/sql/dma/dma-overview?view=sql-server-ver15
+Sync data across multiple cloud and on-premises databases with SQL Data Sync - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-sync-data
+What is Azure SQL Database managed instance? - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-managed-instance
+Configure active geo-replication for Azure SQL Database in the Azure portal and initiate failover - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-active-geo-replication-portal
+Azure SQL Database Advanced Threat Protection for single or pooled databases - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection
+Dynamic data masking for Azure SQL Database and Azure Synapse Analytics - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-dynamic-data-masking-get-started
+Guidance for designing distributed tables in SQL Analytics - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-tables-distribute
+Columnstore indexes - Query performance - https://docs.microsoft.com/en-us/sql/relational-databases/indexes/columnstore-indexes-query-performance?view=sql-server-ver15
+Elastic pools help you manage and scale multiple Azure SQL databases - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-elastic-pool
+PolyBase Setup Errors and Possible Solutions - https://techcommunity.microsoft.com/t5/datacat/polybase-setup-errors-and-possible-solutions/ba-p/305297
+Azure SQL Database Point in Time Restore - https://azure.microsoft.com/en-us/blog/azure-sql-database-point-in-time-restore/
+Automatic turning - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-automatic-tuning
+
+
+SQL Warehouse
+Best practices for loading data for data warehousing - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/guidance-for-loading-data
+Choosing hash distributed table vs. round-robin distributed table in Azure SQL DW Service - https://docs.microsoft.com/en-us/archive/blogs/sqlcat/choosing-hash-distributed-table-vs-round-robin-distributed-table-in-azure-sql-dw-service
+PolyBase Setup Errors and Possible Solutions - https://techcommunity.microsoft.com/t5/datacat/polybase-setup-errors-and-possible-solutions/ba-p/305297
+CREATE EXTERNAL TABLE (Transact-SQL) - https://docs.microsoft.com/en-us/sql/t-sql/statements/create-external-table-transact-sql?view=sql-server-ver15
+Monitor your Azure Synapse Analytics SQL pool workload using DMVs - https://docs.microsoft.com/en-us/azure/sql-data-warehouse/sql-data-warehouse-manage-monitor
+Cache percentage - https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-how-to-monitor-cache
+
+Azure Data Factory
+Copy activity performance and scalability guide - https://docs.microsoft.com/en-us/azure/data-factory/copy-activity-performance
+Move data from an on-premises SQL server to SQL Azure with Azure Data Factory - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/move-sql-azure-adf
+Create a trigger that runs a pipeline on a schedule - https://docs.microsoft.com/en-us/azure/data-factory/how-to-create-schedule-trigger
+Integration runtime in Azure Data Factory - https://docs.microsoft.com/en-us/azure/data-factory/concepts-integration-runtime
+Move data from an on-premises SQL server to SQL Azure with Azure Data Factory - https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/move-sql-azure-adf
+Schema mapping in copy activity - https://docs.microsoft.com/en-us/azure/data-factory/copy-activity-schema-and-type-mapping
+
+DataLake Gen 1
+Accessing diagnostic logs for Azure Data Lake Storage Gen1 - https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-diagnostic-logs
+Securing data stored in Azure Data Lake Storage Gen1 - https://docs.microsoft.com/en-us/azure/data-lake-store/data-lake-store-secure-data
+
+Datalake Gen 2
+Optimize Azure Data Lake Storage Gen2 for performance - https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-performance-tuning-guidance#structure-your-data-set
+
+Monitoring
+Action rules (preview) - https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-action-rules
+
+Big data concepts
+Azure Data Architecture Guide - https://docs.microsoft.com/en-us/azure/architecture/data-guide/
+Choosing a batch processing technology in Azure - https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/batch-processing
+Twitter streaming analytics - step-by-step - https://community.powerbi.com/t5/Power-Query/Twitter-streaming-analytics-step-by-step/m-p/9612#M1664
+Tutorial: Process Apache Kafka for Event Hubs events using Stream analytics - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-stream-analytics
+Manage on-premises data gateway high-availability clusters and load balancing - https://docs.microsoft.com/en-us/data-integration/gateway/service-gateway-high-availability-clusters
+What is Lambda Architecture? and what Azure offers with its new Cosmos DB? - https://sqlwithmanoj.com/2018/02/16/what-is-lambda-architecture-and-what-azure-offers-with-its-new-cosmos-db/
